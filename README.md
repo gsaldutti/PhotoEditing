@@ -6,7 +6,8 @@ Below I made a list of image editing functions that you can use in your Python p
 
 This script is a handful of snippet codes for programmers who need to programmatically edit their images.
 
-Contributors
+# Contributors
+
 Contributed by: Gregg R. Saldutti
 
 Email: greggnyc1@gmail.com
